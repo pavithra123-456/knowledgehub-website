@@ -13,6 +13,6 @@
 - Features: Interactive course cards with hover effects
   Project Structure
 ## HOW TO VIEW 
-- you can acess my udemy-clone-website by visiting[] .feel free to explore the content ang get in touch!
+- you can acess my udemy-clone-website by visiting[ https://pavithra123-456.github.io/knowledgehub-website/] .feel free to explore the content ang get in touch!
 ## Finaly
 THANK YOU for visiting my Knowledge-wesite!
